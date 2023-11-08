@@ -1,0 +1,13 @@
+{
+  "name": "babel-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/helper-plugin-utils": "^7.22.5",
+    "@babel/preset-env": "^7.23.2",
+    "@babel/types": "^7.23.0"
+  }
+}
